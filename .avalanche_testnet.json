@@ -1,0 +1,79 @@
+{
+  "ProxyAdmin": "0xcAB6F5f3E220b61Af8aC4872Ff7124f2437cd797",
+  "Timelock": "0x8775DA09Cc3bAAEB55f59D7c7C3812aa57A754b9",
+  "MultiCall": "",
+  "FairLaunch": {
+    "address": "0xE0FCb9AFAcf0b7a1435B253F2d337a6DcE8d4708",
+    "deployedBlock": 9627847,
+    "pools": [
+      {
+        "id": 0,
+        "stakingToken": "debtMUSDt",
+        "address": "0x15C85995c3a3e167B7B2dAC2373BdFAdCFF72448",
+        "rewarder": ""
+      },
+      {
+        "id": 1,
+        "stakingToken": "mUSDt",
+        "address": "0x634a0E5291B834F868C43931dDb40dE956832695",
+        "rewarder": ""
+      },
+      {
+        "id": 2,
+        "stakingToken": "debtMUSDC",
+        "address": "0x47715F9676A46070601D475361b6fE010D967Ffe",
+        "rewarder": ""
+      },
+      {
+        "id": 3,
+        "stakingToken": "mUSDC",
+        "address": "0x4e10192a11319fB903e67a1413ee7FAeF3Bac97b",
+        "rewarder": ""
+      },
+      {
+        "id": 6,
+        "stakingToken": "debtMETH",
+        "address": "0x8da170Aa542Ed68363b158cEf2E0222925D0f943",
+        "rewarder": ""
+      },
+      {
+        "id": 7,
+        "stakingToken": "mETH",
+        "address": "0xb87bea7D436416961F1E4cEddB4764b4B9c0cFBe",
+        "rewarder": ""
+      },
+      {
+        "id": 8,
+        "stakingToken": "debtMETH.e",
+        "address": "0x1B6a42bE103db9A6263c9267d8769edf6Df17714",
+        "rewarder": ""
+      },
+      {
+        "id": 9,
+        "stakingToken": "mETH.e",
+        "address": "0x8c088C7FeEf7Ceea67A0c372DFE4CC75bC7056Cf",
+        "rewarder": ""
+      },
+      {
+        "id": 10,
+        "stakingToken": "fdMOLE",
+        "address": "0xBdd6954C71240d4e5229fe311EA56DB31fE902d1",
+        "rewarder": ""
+      }
+    ]
+  },
+  "Tokens": {
+    "MOLE": "0x3e3e6b73D29178844Ea725e25C4bD653D77b8492",
+    "fdMOLE": "0xBdd6954C71240d4e5229fe311EA56DB31fE902d1"
+  },
+  "xMOLE": "0xcBc480787C8De751b3F4Fb07Fcc1BB723eb9B1Cb",
+  "MOLEFeeder": "0x21e35C9B5d8A3F47DEfA0dB5566f77Ad30F0a045",
+  "GrassHouses": [
+    {
+      "name": "MOLE",
+      "address": "0x2DbE37DA6D4CeDF792fED2cB7465036741b2160f",
+      "rewardToken": "0x3e3e6b73D29178844Ea725e25C4bD653D77b8492"
+    }
+  ],
+  "GrassHouseGateway": "0x3B5e0F213D0Cf7072B2BEe6C37f67E1954b58feA"
+}
