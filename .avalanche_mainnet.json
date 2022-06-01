@@ -1,0 +1,110 @@
+{
+  "ProxyAdmin": "0xA5aE02015E9108DC0aa42d71c1ec1fD4C0f895E4",
+  "Timelock": "0x096A504E5A6e42A722791A13a517B2f59226Ee67",
+  "MultiCall": "",
+  "FairLaunch": {
+    "address": "0xAEa6E78DbbfF98169BbBCE369DB40Ea44b7F190A",
+    "deployedBlock": 15141350,
+    "pools": [
+      {
+        "id": 0,
+        "stakingToken": "debtMMIM",
+        "address": "0x7FA21C957dC206552C3baBd37F730de0a243c534"
+      },
+      {
+        "id": 1,
+        "stakingToken": "mMIM",
+        "address": "0x25f5F26F60417BA637E7c7f9182d7D1eAc8175Cc"
+      },
+      {
+        "id": 2,
+        "stakingToken": "debtMWAVAX",
+        "address": "0xa8C879e3Eb78d36B809fD151249c94036276F156"
+      },
+      {
+        "id": 3,
+        "stakingToken": "mWAVAX",
+        "address": "0xb579B20bE4EC7b3171cC18514617197dc0843C59"
+      },
+      {
+        "id": 4,
+        "stakingToken": "debtMWETH.e",
+        "address": "0x94dbB6838Ade248529C815af69428F8FDAA4aAD1"
+      },
+      {
+        "id": 5,
+        "stakingToken": "mWETH.e",
+        "address": "0x4C5d12E48843Cb3df37bDa818732dcAdEb12ff08"
+      },
+      {
+        "id": 6,
+        "stakingToken": "debtMUSDC",
+        "address": "0x57Db7761C0ebF2F7cC80796F3595f94f5250d0bC"
+      },
+      {
+        "id": 7,
+        "stakingToken": "mUSDC",
+        "address": "0x08d21849E5d2aDc29674D07dD436458Dd7ce9d92"
+      },
+      {
+        "id": 8,
+        "stakingToken": "debtMUSDC.e",
+        "address": "0xC06A84f32498B5584AA933E802e2Eed4BB805894"
+      },
+      {
+        "id": 9,
+        "stakingToken": "mUSDC.e",
+        "address": "0x0B82034cB1aA2Cfc5011fC4ecEbf782f9D646827"
+      },
+      {
+        "id": 10,
+        "stakingToken": "debtMUSDT.e",
+        "address": "0x5B0D3b5afD13A0dAdf9890F7B94aAf6b90D94950"
+      },
+      {
+        "id": 11,
+        "stakingToken": "mUSDT.e",
+        "address": "0x7C1683cD51B3AC45Ec1D40713A9aE80Ed7EDF47f"
+      },
+      {
+        "id": 12,
+        "stakingToken": "debtMWBTC.e",
+        "address": "0x93eBf9078936b97BCc82a0bC21675aC2cec7465E"
+      },
+      {
+        "id": 13,
+        "stakingToken": "mWBTC.e",
+        "address": "0x102Fa80A7D5C918a86571De5FE8fA42bEEaC5827"
+      },
+      {
+        "id": 14,
+        "stakingToken": "debtMDAI.e",
+        "address": "0xAA4BAE4dd7a7B99B05E6ECe7a12E980244c6D38c"
+      },
+      {
+        "id": 15,
+        "stakingToken": "mMDAI.e",
+        "address": "0xE0bB77622dd1CcF6E1ABA861D6A22B2e27590556"
+      },
+      {
+        "id": 16,
+        "stakingToken": "fdMOLE",
+        "address": "0x2315158D8279713F5dEe46d3b2522Cb3dbF923E1"
+      }
+    ]
+  },
+  "Tokens": {
+    "MOLE": "0x2a1d12B6a84999aeAc82579F730e8Df9875092F0",
+    "fdMOLE": "0x2315158D8279713F5dEe46d3b2522Cb3dbF923E1"
+  },
+  "xMOLE": "0x9dcd39e7B1A90eA104C72592d7988B794FD29eE5",
+  "MOLEFeeder": "0x05f625121F7bbDEa323A8fc7121F9ad5b16E52d9",
+  "GrassHouses": [
+    {
+      "name": "MOLE",
+      "address": "0x2D52566663c2c1f67550Bf21182E982E5cB9055A",
+      "rewardToken": "0x2a1d12B6a84999aeAc82579F730e8Df9875092F0"
+    }
+  ],
+  "GrassHouseGateway": "0x9e0B9049Fb030670C68af977Dd1442141cd984Ed"
+}
